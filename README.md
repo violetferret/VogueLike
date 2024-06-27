@@ -1,5 +1,5 @@
 # VogueLike
-## Final game project for Professor Noah Wardrip-Fruin's CMPM 80K, Winter 2023
+Final game project for Professor Noah Wardrip-Fruin's CMPM 80K, Winter 2023
 ## Credits
 Created by: Elliot Ahlstroem and Campbell Hunter
 
